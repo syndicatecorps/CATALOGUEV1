@@ -94,5 +94,17 @@
     "auteur": "[𝙏𝙎𝘾] Kragen",
     "timestamp": "2025-07-26T16:05:16.945588+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1398697373781196892"
+  },
+  {
+    "channel_id": 1422576962253095033,
+    "titre": "BAIT",
+    "description": "I WAS HERE",
+    "categorie": "Divers/autres",
+    "prix": 600000,
+    "image": "https://raw.githubusercontent.com/syndicatecorps/CATALOGUEV1/master/images/e3a8bc170e577e396138cf43fc5b48db5724bcb3.jpg",
+    "auteur_id": 560383297146978304,
+    "auteur": "[TSC] Dude",
+    "timestamp": "2025-09-30T13:33:33.649118+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1422576962253095033"
   }
 ]
