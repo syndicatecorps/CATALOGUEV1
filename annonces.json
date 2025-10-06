@@ -94,5 +94,17 @@
     "auteur": "[𝙏𝙎𝘾] Kragen",
     "timestamp": "2025-07-26T16:05:16.945588+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1398697373781196892"
+  },
+  {
+    "channel_id": 1424712682640248903,
+    "titre": "TS-2",
+    "description": "1x TS-2 à vendre.\nOrbituary.\n\nPas de livraison. (No Delivery)",
+    "categorie": "Ship Composants",
+    "prix": 4000000,
+    "image": "https://raw.githubusercontent.com/syndicatecorps/CATALOGUEV1/master/images/30c9e6288033a62c0fffe6541e36b724612fa733.png",
+    "auteur_id": 560383297146978304,
+    "auteur": "[TSC] Dude",
+    "timestamp": "2025-10-06T11:01:47.166708+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1424712682640248903"
   }
 ]
