@@ -142,5 +142,17 @@
     "auteur": "[𝙏𝙎𝘾] Lisaria",
     "timestamp": "2025-10-26T10:13:10.944452+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1431948388584132628"
+  },
+  {
+    "channel_id": 1431948878806257724,
+    "titre": "TS-2",
+    "description": "Vend TS-2, Quantum Drive T3 Grade A Militaire\nA venir récupérer à Orbituary ou livraison pour 400k",
+    "categorie": "Ship Composants",
+    "prix": 1000000,
+    "image": "https://raw.githubusercontent.com/syndicatecorps/CATALOGUEV1/master/images/052cf62ea389fa8a2ba7c17a68221787c5d40a4c.png",
+    "auteur_id": 1133461781914853516,
+    "auteur": "[𝙏𝙎𝘾] Lisaria",
+    "timestamp": "2025-10-26T10:16:15.013457+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1431948878806257724"
   }
 ]
