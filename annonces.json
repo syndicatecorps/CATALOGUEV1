@@ -250,5 +250,17 @@
     "auteur": "[𝙏𝙎𝘾] Lisaria",
     "timestamp": "2025-10-26T10:35:46.389682+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1431953893964775515"
+  },
+  {
+    "channel_id": 1431954601334149143,
+    "titre": "Perle AA",
+    "description": "Vend perle de Valakkar irradiée, grade AA\nQuantité limitée\nA venir récupérer à Orbituary",
+    "categorie": "Divers/autres",
+    "prix": 500000,
+    "image": "https://raw.githubusercontent.com/syndicatecorps/CATALOGUEV1/master/images/365dec51ae9194eea245ee7879bcc7034308db07.png",
+    "auteur_id": 1133461781914853516,
+    "auteur": "[𝙏𝙎𝘾] Lisaria",
+    "timestamp": "2025-10-26T10:39:04.117557+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1431954601334149143"
   }
 ]
