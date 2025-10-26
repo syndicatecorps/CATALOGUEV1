@@ -106,5 +106,17 @@
     "auteur": "[𝙏𝙎𝘾] Lisaria",
     "timestamp": "2025-10-26T09:05:42.922815+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1431931322623983629"
+  },
+  {
+    "channel_id": 1431931914314449018,
+    "titre": "Glacier",
+    "description": "Vend Glacier, refroidisseur T1 grade A militaire\nA venir récupérer à Orbituary ou livraison pour 400k",
+    "categorie": "Ship Composants",
+    "prix": 150000,
+    "image": "https://raw.githubusercontent.com/syndicatecorps/CATALOGUEV1/master/images/011649d1435b077b9978b1c5f38393c7b6e4b0aa.png",
+    "auteur_id": 1133461781914853516,
+    "auteur": "[𝙏𝙎𝘾] Lisaria",
+    "timestamp": "2025-10-26T09:07:54.417286+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1431931914314449018"
   }
 ]
