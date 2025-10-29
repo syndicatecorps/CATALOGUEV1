@@ -274,5 +274,17 @@
     "auteur": "[TSC] Dude",
     "timestamp": "2025-10-28T08:01:52.081394+00:00",
     "lien": "https://discord.com/channels/1397191849193767095/1432639633837133907"
+  },
+  {
+    "channel_id": 1433072211253526649,
+    "titre": "JS-300",
+    "description": "Vend JS-30, générateur T1 grade A militaire\nA venir récupérer à Orbituary ou livraison pour 400k",
+    "categorie": "Ship Composants",
+    "prix": 100000,
+    "image": "https://raw.githubusercontent.com/syndicatecorps/CATALOGUEV1/master/images/4a84c16fc1d91eb4b99118acad7b188e67c3079b.bin",
+    "auteur_id": 1133461781914853516,
+    "auteur": "[𝙏𝙎𝘾] Lisaria",
+    "timestamp": "2025-10-29T12:38:58.131467+00:00",
+    "lien": "https://discord.com/channels/1397191849193767095/1433072211253526649"
   }
 ]
