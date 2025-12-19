@@ -1,17 +1,5 @@
 [
   {
-    "channel_id": 1397263481966694511,
-    "titre": "Jaclium",
-    "description": "Minerais rare, vente a l'unité. Lorville",
-    "categorie": "Matières première",
-    "prix": 45000,
-    "image": "https://raw.githubusercontent.com/syndicatecorps/CATALOGUEV1/master/images/dbbc39586e531b5696fe94aeff6f00dd15267c82.png",
-    "auteur_id": 225681416854175745,
-    "auteur": "Moodyy",
-    "timestamp": "2025-07-22T17:07:19.399069+00:00",
-    "lien": "https://discord.com/channels/1397191849193767095/1397263481966694511"
-  },
-  {
     "channel_id": 1398280805700075583,
     "titre": "Picoball",
     "description": "PicoBall à recuperer à Lorville",
