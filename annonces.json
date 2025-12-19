@@ -1,17 +1,5 @@
 [
   {
-    "channel_id": 1397262547698323640,
-    "titre": "Carinite",
-    "description": "Minerais rare, vente a l'unité. Lorville",
-    "categorie": "Matières première",
-    "prix": 45000,
-    "image": "https://raw.githubusercontent.com/syndicatecorps/CATALOGUEV1/master/images/1e875677b315cdb5d8f9fcbaf0933a9c2b9c9e52.png",
-    "auteur_id": 225681416854175745,
-    "auteur": "Moodyy",
-    "timestamp": "2025-07-22T17:03:24.500785+00:00",
-    "lien": "https://discord.com/channels/1397191849193767095/1397262547698323640"
-  },
-  {
     "channel_id": 1397263024146092044,
     "titre": "Saldynium",
     "description": "Minerais rare, vente a l'unité. Lorville",
